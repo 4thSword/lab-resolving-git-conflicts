@@ -1,3 +1,3 @@
-# lab-resolving-git-conflicts
+# lab conflic resolving
 
 new branch creates conflict
