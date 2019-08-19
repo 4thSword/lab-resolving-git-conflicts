@@ -1,1 +1,3 @@
-# Esto deberia dar un conficto
+#lab conflic resolving
+
+new branch creates conflict
