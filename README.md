@@ -1,3 +1,2 @@
-#lab conflic resolving
-
-new branch creates conflict
+<<<<<<< HEAD
+# lab conflic resolving
